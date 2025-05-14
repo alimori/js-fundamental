@@ -1,25 +1,13 @@
 # js-fundamental
 An introductory of JavaScript. 
 
-In this project, I practice  the js fundamental topics, including:
+In this project, we practice the js fundamental and advanced topics, including:
 
-- Variables
+- Closure and Scopes
 
-- Conditionals
+- Event loop and Concurrency
 
-- Functions
-
-- Loops
-
-- Strings
-
-- Math
-
-- Arrays
-
-- Modulo
-
-- Objects
+- this, bind, call, apply
 
 #
 
